@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 255" role="img" aria-labelledby="title desc">
+  <title id="title">SPC International</title>
+  <desc id="desc">Growth Is In Our DNA</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0877bf"/><stop offset=".47" stop-color="#042c76"/><stop offset="1" stop-color="#071d51"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d47b0e"/><stop offset=".6" stop-color="#f69b18"/><stop offset="1" stop-color="#e77905"/></linearGradient>
+  </defs>
+  <path d="M54 159C105 79 227 19 321 16c51-2 82 11 84 35 1 17-10 32-23 45 8-29-1-45-25-50-72-16-220 35-303 113Z" fill="url(#gold)"/>
+  <path d="M111 117c-29 35-43 68-24 88 23 24 75 26 129 15 68-14 117-41 164-83-33 54-101 97-181 109-79 12-141-3-153-39-8-25 16-66 65-90Z" fill="url(#blue)"/>
+  <text x="120" y="173" fill="url(#blue)" font-family="Arial, Helvetica, sans-serif" font-size="151" font-weight="900" font-style="italic" letter-spacing="-12">SPC</text>
+  <text x="477" y="164" fill="#071d51" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" font-style="italic" textLength="665" lengthAdjust="spacingAndGlyphs">INTERNATIONAL</text>
+  <path d="M385 211h130M1023 211h119" stroke="#59616d" stroke-width="2"/>
+  <text x="531" y="227" fill="#d7800d" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" font-style="italic" textLength="475" lengthAdjust="spacingAndGlyphs">Growth Is In Our DNA</text>
+</svg>
