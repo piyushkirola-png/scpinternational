@@ -1,4 +1,3 @@
-
 import type { Metadata } from "next";
 import { ArrowUpRight, MapPin, MoveUpRight, Mail } from "lucide-react";
 import { PageHero } from "@/components/page-hero";
